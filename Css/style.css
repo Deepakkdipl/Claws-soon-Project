@@ -1,0 +1,70 @@
+  /* Top Banner */
+  .banner {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-image: url(/Img/CLAWS_NEW_pages-to-jpg-0001-removebg-preview.2ec5f847c879a7fbc313.png); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: black;
+}
+
+/* Bottom Text */
+.bottom-text {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+/* Cards section
+======================================== */
+.features-section {
+    background-color: #f8f9fa; /* Light grey background */
+}
+
+.feature-box {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff; /* White background */
+    transition: all 0.3s ease-in-out;
+}
+
+.feature-box:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Shadow effect on hover */
+}
+
+/* Privacy Section
+=========================================== */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.privacy-policy {
+    background-color: #fff; /* Background color for the section */
+    color: #333; /* Text color */
+}
+
+.privacy-policy h1 {
+    font-size: 2.5rem; /* Font size for the title */
+}
+
+.privacy-policy h2 {
+    font-size: 1.8rem; /* Font size for section headings */
+    color: #000; /* Heading color */
+}
+
+.privacy-policy h5 {
+    font-size: 1.2rem; /* Font size for subheadings */
+    color: #333; /* Subheading color */
+    margin-top: 20px;
+}
+
+.privacy-policy p {
+    margin-bottom: 20px; /* Margin below paragraphs */
+}
